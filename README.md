@@ -1,4 +1,4 @@
-Odoo second exercise 
+Odoo second exercise: 
 I used Visual Studio Code to build this mock-up, I worked with SCSS and compiled it into a CSS file, so in this way the browser could read it easily. 
 For he layout, I used Bootstrap 5.3.2, as requested, and I added some hover effects to make the page feel more alive, and I used @media queries to make sure everything looks in order on mobile too. As you can see, I also added many comments inside all the code to keep the different sections organized and it also helped me stay on track and keep the code clean and easy to follow. 
 
